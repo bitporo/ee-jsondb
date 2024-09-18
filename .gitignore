@@ -1,0 +1,6 @@
+node_modules
+.idea/
+package-lock.json
+data/jsondb.json
+.vscode/launch.json
+pnpm-lock.yaml
