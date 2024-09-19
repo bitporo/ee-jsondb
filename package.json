@@ -1,13 +1,13 @@
 {
-  "name": "easy-jsondb",
+  "name": "ee-jsondb",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A node.js module for lightweight json database.",
+  "main": "./src/storage/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["jsondb","json database"],
+  "author": "bitporo",
   "license": "MIT",
   "dependencies": {
     "is-type-of": "^2.1.0",
