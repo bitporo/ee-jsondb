@@ -1,6 +1,6 @@
 {
   "name": "ee-jsondb",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A node.js module for lightweight json database.",
   "main": "./src/storage/index.js",
   "scripts": {
@@ -8,6 +8,10 @@
   },
   "keywords": ["jsondb","json database"],
   "author": "bitporo",
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/bitporo/ee-jsondb"
+  },
   "license": "MIT",
   "dependencies": {
     "is-type-of": "^2.1.0",
