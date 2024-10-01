@@ -10,7 +10,7 @@
   "author": "bitporo",
   "repository": {
     "type": "git",
-    "url": "https://gitee.com/bitporo/ee-jsondb"
+    "url": "https://github.com/bitporo/ee-jsondb"
   },
   "license": "MIT",
   "dependencies": {
